@@ -34,7 +34,7 @@
 *   **ความเกรงใจขั้นสุดจาก Extraverted Feeling (Fe):** ฟังก์ชัน **Fe** ทำให้เราเซนซิทีฟกับความรู้สึกและบรรยากาศรอบตัวมากๆ เรามักจะกังวลไปล่วงหน้าว่า *"ถ้าทักไปตอนนี้เขาจะรำคาญไหม?"* หรือ *"เรากำลังล้ำเส้นความส่วนตัวของเขาหรือเปล่า?"* ความใส่ใจผู้อื่นนี้เองที่มักจะเบรกไม่ให้เรากล้าทำตัวบุกทะลวง
 *   **การดึงฟังก์ชันด้อย Extraverted Sensing (Se) มาใช้แบบผิดวิธี:** เมื่อเราฝืนตัวเองให้ต้องแสดงออกทางกายภาพแบบรวดเร็วและฉาบฉวย (รุกจีบ, หว่านเสน่ห์แบบโจ่งแจ้ง) มันคือการไปกระตุ้นฟังก์ชัน **Se** ซึ่งเป็นจุดอ่อนที่สุดของเรา ผลลัพธ์ก็คือเราจะดูเก้ๆ กังๆ ไม่เป็นธรรมชาติ และใช้พลังงานจนรู้สึกหมดแรงในที่สุด
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of an introverted elegant woman standing calmly as a quiet magnetic force, gently drawing a subtle glowing light towards her without moving or chasing.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_1.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of an introverted elegant woman standing calmly as a quiet magnetic force, gently drawing a subtle glowing light towards her without moving or chasing.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_1.png)
 
 ในหนังสือ *The Art of Seduction* การเป็นฝ่ายรุกเปรียบเสมือนการออกล่าเหยื่อ ซึ่งสำหรับผู้หญิง INFJ แล้ว เราไม่ได้เกิดมาเพื่อเป็นนายพรานที่ถือหอกวิ่งไล่ตามใครค่ะ แต่เราเกิดมาเพื่อเป็นขุมทรัพย์ล้ำค่าที่ดึงดูดให้คนอยากเข้ามาค้นพบด้วยตัวเองต่างหาก การเปลี่ยนมุมมองจากการเป็นฝ่ายรุก มาเป็นการสร้างเสน่ห์แบบ *Passive Attractive* จึงเป็นหนทางที่ช่วยเซฟพลังงานและดึงความเป็นตัวเราออกมาได้ดีที่สุด
 
@@ -44,7 +44,7 @@
 | **ความรู้สึกที่เกิดขึ้น** | ฝืนธรรมชาติ อึดอัด วิตกกังวลว่าเป้าหมายจะอึดอัด | รู้สึกเป็นตัวเอง ปลอดภัย ให้พื้นที่อีกฝ่ายได้เข้ามาหา |
 | **ฟังก์ชัน MBTI ที่ใช้** | บังคับใช้ **Se** (สัญชาตญาณภายนอก) แบบผิดจังหวะ | ใช้งาน **Ni** และ **Fe** ได้อย่างสมดุลและทรงพลังที่สุด |
 
-![PROMPT: Informational Infographic, 16:8 minimal style white background. Title: "ทำไม INFJ ถึงฝืนเมื่อต้องรุก?". Content includes MBTI functions breakdown in Thai language: Ni (คิดลึกซึ้ง) + Fe (แคร์คนรอบข้าง) = ชอบสังเกตการณ์ ไม่ชอบบังคับใจใคร และให้ความสำคัญกับความลื่นไหลตามธรรมชาติ มากกว่าการพุ่งชน](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_2.png)
+![PROMPT: Informational Infographic, 16:8 minimal style white background. Title: "ทำไม INFJ ถึงฝืนเมื่อต้องรุก?". Content includes MBTI functions breakdown in Thai language: Ni (คิดลึกซึ้ง) + Fe (แคร์คนรอบข้าง) = ชอบสังเกตการณ์ ไม่ชอบบังคับใจใคร และให้ความสำคัญกับความลื่นไหลตามธรรมชาติ มากกว่าการพุ่งชน](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_2.png)
 
 💡 **Note จากเอสเธอร์:** 
 การเป็นฝ่ายรุกไม่ใช่เรื่องที่ผิดนะคะ แต่มันแค่ "ผิดจริต" ของผู้หญิง INFJ อย่างเราเท่านั้นเอง การพยายามสวมหน้ากากเป็นคนอื่น นอกจากจะทำให้เราเหนื่อยฟรีแล้ว ยังบดบังเสน่ห์ที่แท้จริงของคุณเอาไว้ด้วย จำไว้นะคะว่าความสงบนิ่งและการทอดสะพานด้วยความใส่ใจ คืออาวุธที่ทรงพลังที่สุดของเราค่ะ
@@ -55,7 +55,7 @@
 
 ฟังก์ชัน **Ni** จะคอยทำหน้าที่ซึมซับข้อมูล เชื่อมโยงความหมาย และรวบรวมรูปแบบต่างๆ ไว้ในคลังข้อมูลส่วนลึกของจิตใจ  กระบวนการนี้ทำงานอยู่ภายในและซับซ้อนมากจนบางครั้งตัวเราเองก็ยากที่จะอธิบายออกมาเป็นคำพูดได้อย่างชัดเจน คนที่มีฟังก์ชันนี้เป็นตัวนำจึงมักถูกมองว่าเป็นคนที่มีความเป็นตัวของตัวเองสูง มีความซับซ้อน และในบางครั้งก็ดูลึกลับจนหยั่งไม่ถึง 
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant introverted woman with a calm expression, surrounded by subtle, floating abstract geometric patterns representing her deep, complex inner world and quiet magnetic aura.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_3.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant introverted woman with a calm expression, surrounded by subtle, floating abstract geometric patterns representing her deep, complex inner world and quiet magnetic aura.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_3.png)
 
 เมื่อนำมามองผ่านเลนส์ของศาสตร์การดึงดูดใจจาก *The Art of Seduction* ความลึกลับที่อ่านยากนี้แหละค่ะคือ "แม่เหล็ก" ชั้นดีที่สร้างเสน่ห์ได้อย่างมหาศาล เสน่ห์ที่ทรงพลังที่สุดมักจะมีความคลุมเครือ (Ambiguity) ผสมอยู่เสมอ เพราะความลึกลับจะเข้าไปกระตุ้นจินตนาการ ทำให้ผู้คนเก็บเอาภาพของคุณไปคิดต่อและจินตนาการถึงในเวลาที่คุณไม่ได้อยู่ตรงนั้น  การที่คุณเป็นคนที่เดาทางไม่ได้ทั้งหมด หรือไม่ได้แสดงออกทุกอย่างที่มีอยู่ข้างใน จะทำให้เป้าหมายรู้สึกตื่นเต้นและอยากค้นหาคุณให้ลึกซึ้งยิ่งขึ้น  
 
@@ -71,7 +71,7 @@
 | **ความรู้สึกของอีกฝ่าย** | รู้สึกอึดอัด หรือดูออกว่ากำลังถูกเรียกร้องความสนใจ | รู้สึกท้าทาย สนใจ และรับรู้ได้ถึงมิติความลุ่มลึกที่ซ่อนอยู่เบื้องหลังความนิ่ง |
 | **ผลลัพธ์ในการดึงดูด** | ดึงดูดได้แค่ช่วงแรก พอถูกจับได้ว่าแกล้งทำ เสน่ห์ก็จะหมดไป | ยิ่งค้นหาก็ยิ่งเจอความซับซ้อน ทำให้เกิดแรงดึงดูดและความหลงใหลอย่างยั่งยืน  |
 
-![PROMPT: Informational Infographic, 16:8 minimal style white background. Title: "พลังของ Ni สู่การเป็น Passive Attractive". Content includes 3 interconnected steps in Thai: 1. ซึมซับข้อมูลภายใน (Introverted Processing) 2. สร้างความคลุมเครือตามธรรมชาติ (Ambiguity) 3. กระตุ้นจินตนาการเป้าหมาย (Trigger Imagination) - แสดงให้เห็นว่าความลึกลับสร้างแรงดึงดูดได้อย่างไรโดยไม่ต้องออกแรงรุก](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_4.png)
+![PROMPT: Informational Infographic, 16:8 minimal style white background. Title: "พลังของ Ni สู่การเป็น Passive Attractive". Content includes 3 interconnected steps in Thai: 1. ซึมซับข้อมูลภายใน (Introverted Processing) 2. สร้างความคลุมเครือตามธรรมชาติ (Ambiguity) 3. กระตุ้นจินตนาการเป้าหมาย (Trigger Imagination) - แสดงให้เห็นว่าความลึกลับสร้างแรงดึงดูดได้อย่างไรโดยไม่ต้องออกแรงรุก](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_4.png)
 
 💡 **ข้อสังเกตจากเอสเธอร์:** 
 จำไว้นะคะว่า คุณไม่จำเป็นต้องพยายามประดิษฐ์ความซับซ้อนใดๆ ขึ้นมาให้เหนื่อยเลย เพราะโลกภายในของคุณนั้นมีความลึกลับน่าค้นหาเป็นทุนเดิมอยู่แล้ว  เพียงแค่อนุญาตให้ตัวเองได้เป็นตัวของตัวเองอย่างสบายใจ ปล่อยให้ความเงียบและความคิดลึกซึ้งทำงานแทนคุณ แล้วรอดูคนที่ถูกดึงดูดด้วยออร่าของคุณเดินเข้ามาหาด้วยตัวเองค่ะ
@@ -84,7 +84,7 @@
 
 เมื่อนำมามองผ่านเลนส์ของ *The Art of Seduction* พลังของ **Fe** ก็คือจุดกำเนิดของคาแรคเตอร์การดึงดูดแบบ *The Charmer* หรือนักสร้างเสน่ห์ที่ทำให้ผู้อื่นหลงใหลโดยไม่ต้องใช้เรื่องของสรีระหรือเซ็กส์มานำทางค่ะ  เสน่ห์แบบ *The Charmer* นั้นเรียบง่ายแต่ทรงพลังมาก เพราะพวกเขาจะเบนความสนใจจากตัวเองไปโฟกัสที่เป้าหมาย ปรับตัวเข้ากับอารมณ์ของอีกฝ่าย และทำให้คนที่อยู่ตรงหน้า "รู้สึกดีกับตัวเองมากขึ้น"  ซึ่งนี่คือสิ่งที่ผู้หญิง INFJ ทำได้เป็นธรรมชาติอยู่แล้วค่ะ
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman offering a warm, softly glowing aura of empathy and comfort to another person, symbolizing deep emotional connection and a safe haven without aggressive pursuit.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_5.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman offering a warm, softly glowing aura of empathy and comfort to another person, symbolizing deep emotional connection and a safe haven without aggressive pursuit.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_5.png)
 
 กลไกที่ฟังก์ชัน **Fe** ช่วยสร้างเสน่ห์แบบ *Passive Attractive* มีดังนี้ค่ะ:
 
@@ -98,7 +98,7 @@
 | **จุดโฟกัส** | โฟกัสที่ตัวเอง (ทำอย่างไรให้ฉันดูดีในสายตาเขา) | โฟกัสที่อีกฝ่าย (เขากำลังรู้สึกอย่างไร และต้องการอะไร) |
 | **ความรู้สึกที่เกิดขึ้น** | อีกฝ่ายอาจรู้สึกถึงความพยายามที่มากเกินไป หรือดูออกว่าไม่จริงใจ | อีกฝ่ายรู้สึกปลอดภัย เป็นที่ยอมรับ และรู้สึกดีกับตัวเองมากขึ้นเมื่ออยู่ใกล้ |
 
-![PROMPT: Process Infographic, 16:8 minimal style white background. Title: "พลังของ Fe สู่เสน่ห์แบบ The Charmer". Content includes 3 steps with simple icons reading top-to-bottom in Thai: 1. รับรู้อารมณ์ (Empathy) - ใช้ Fe อ่านความรู้สึก 2. สะท้อนความเข้าใจ (Mirroring) - ทำให้เขารู้สึกเป็นคนสำคัญ 3. เกิดความผูกพัน (Addiction to Comfort) - กลายเป็นพื้นที่ปลอดภัยที่เขาขาดไม่ได้](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_6.png)
+![PROMPT: Process Infographic, 16:8 minimal style white background. Title: "พลังของ Fe สู่เสน่ห์แบบ The Charmer". Content includes 3 steps with simple icons reading top-to-bottom in Thai: 1. รับรู้อารมณ์ (Empathy) - ใช้ Fe อ่านความรู้สึก 2. สะท้อนความเข้าใจ (Mirroring) - ทำให้เขารู้สึกเป็นคนสำคัญ 3. เกิดความผูกพัน (Addiction to Comfort) - กลายเป็นพื้นที่ปลอดภัยที่เขาขาดไม่ได้](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_6.png)
 
 💡 **Esther's Secret:** 
 ข้อควรระวังสำหรับสาว INFJ คือ ฟังก์ชัน **Fe** อาจทำให้เราเผลอทุ่มเทเอาใจคนอื่นจนลืมความต้องการของตัวเองได้นะคะ  จำไว้ว่าเราใช้ **Fe** เพื่อสร้าง "สะพาน" ให้เขาเดินเข้ามาทำความรู้จักโลกที่งดงามของเรา ไม่ใช่ใช้เพื่อข้ามไปปรนนิบัติเขาจนสูญเสียความเป็นตัวเองค่ะ เสน่ห์ที่แท้จริงคือความอบอุ่นที่มาพร้อมกับขอบเขตที่ชัดเจนนะคะ!
@@ -109,7 +109,7 @@
 
 หลายคนอาจจะเข้าใจผิดว่าการเป็นคน "Passive" คือการนั่งเฉยๆ ไม่ทำอะไรเลย ปล่อยให้โชคชะตาพาใครสักคนพัดหลงเข้ามาในชีวิต หรือทำตัวเป็นผู้ถูกเลือกที่ไม่มีสิทธิ์มีเสียง แต่ในทางจิตวิทยาและศาสตร์แห่งการดึงดูดใจแล้ว มันไม่ได้แปลว่าเรายอมจำนนหรืออ่อนแอค่ะ แต่มันคือ **"ศิลปะแห่งการดึงดูดด้วยความสงบนิ่ง"** ต่างหาก
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of a serene and elegant woman standing still like a magnet, effortlessly drawing beautiful abstract shapes and soft light toward her.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_7.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of a serene and elegant woman standing still like a magnet, effortlessly drawing beautiful abstract shapes and soft light toward her.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_7.png)
 
 ถ้าเปรียบเทียบกับการล่าสัตว์ การเป็น "ฝ่ายรุก" (Active Seduction) คือนายพรานที่ถือปืนวิ่งไล่ตามเหยื่อ ซึ่งนอกจากจะใช้พลังงานมหาศาลแล้ว ยังมักจะทำให้เป้าหมายตกใจกลัวจนวิ่งหนีไปอีกต่างหาก แต่ *Passive Attractive* คือการจัดเตรียม "พื้นที่ที่สมบูรณ์แบบ" สร้างบรรยากาศและออร่าที่ชวนให้ลุ่มหลง จนเป้าหมายเต็มใจที่จะเดินเข้ามาหาและเป็นฝ่ายไล่ตามเราเองค่ะ
 
@@ -125,7 +125,7 @@
 | **สิ่งที่เป้าหมายรู้สึก** | รู้สึกว่าตัวเองเป็นผู้ถูกล่า หรือถูกเรียกร้องความสนใจ | รู้สึกท้าทาย ผ่อนคลาย และอยากเป็นคนค้นหาตัวตนของคุณด้วยตัวเอง |
 | **อำนาจในการควบคุม** | ควบคุมสถานการณ์ผ่านการกระทำและคำพูด (สูญเสียพลังงานเยอะ) | ควบคุมสถานการณ์ผ่านบรรยากาศและความคลุมเครือ (ทรงพลังและลึกล้ำกว่า) |
 
-![PROMPT: Hierarchy Infographic, 16:8 minimal style white background. Title: "ระดับขั้นของ Passive Attractive". Content includes 3 levels bottom to top in Thai: 1. สร้างความสบายใจด้วย Fe (Comfort & Warmth) 2. สร้างออร่าความลึกลับด้วย Ni (Mystery & Depth) 3. ถอยเพื่อสร้างพื้นที่ว่าง (Strategic Withdrawal)](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_8.png)
+![PROMPT: Hierarchy Infographic, 16:8 minimal style white background. Title: "ระดับขั้นของ Passive Attractive". Content includes 3 levels bottom to top in Thai: 1. สร้างความสบายใจด้วย Fe (Comfort & Warmth) 2. สร้างออร่าความลึกลับด้วย Ni (Mystery & Depth) 3. ถอยเพื่อสร้างพื้นที่ว่าง (Strategic Withdrawal)](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_8.png)
 
 💡 **Esther's Reminder:**
 การเป็น *Passive Attractive* ไม่ใช่การเล่นตัวแบบไร้เหตุผลหรือการแกล้งทำเป็นหยิ่งนะคะ แต่มันคือการ **อนุญาต** ให้ตัวเองได้อยู่ในจุดที่สบายใจที่สุด โดยใช้ความสงบนิ่งตามธรรมชาติของเราเป็นตัวสร้างแรงดึงดูด และเป็นตะแกรงคัดกรองคนที่จะมองเห็นคุณค่าในความลุ่มลึกของเราจริงๆ ค่ะ
@@ -140,7 +140,7 @@
 
 ## หัวข้อ 2.1: ค้นหาคาแรคเตอร์เสน่ห์ของคุณ (The Ideal Lover และ The Siren ในแบบฉบับ INFJ)
 
-![PROMPT: A minimal 16:8 illustration of an elegant, mysterious woman sitting gracefully in front of a mirror, casting a shadow that forms an alluring silhouette, white background, conveying a sense of quiet magnetism and deep empathy.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_9.png)
+![PROMPT: A minimal 16:8 illustration of an elegant, mysterious woman sitting gracefully in front of a mirror, casting a shadow that forms an alluring silhouette, white background, conveying a sense of quiet magnetism and deep empathy.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_9.png)
 
 เอสเธอร์เชื่อว่าหลายคนคงเคยได้ยินเรื่องคาแรคเตอร์นักดึงดูดจากหนังสือ *The Art of Seduction* ของโรเบิร์ต กรีน กันมาบ้างใช่ไหมคะ? ในศาสตร์แห่งการดึงดูดนั้นมีการแบ่งประเภทของผู้คนไว้หลากหลายรูปแบบ แต่สำหรับผู้หญิง INFJ อย่างเรา เอสเธอร์บอกเลยค่ะว่ามี 2 คาแรคเตอร์ที่เกิดมาเพื่อแมตช์กับฟังก์ชัน **Ni (Introverted Intuition)** และ **Fe (Extraverted Feeling)** ของเราอย่างสมบูรณ์แบบ นั่นก็คือคาแรคเตอร์แบบ *The Ideal Lover* และ *The Siren*
 
@@ -158,7 +158,7 @@
 | **The Ideal Lover** | **Fe** (Extraverted Feeling) | เป็นผู้ฟังที่ดี สะท้อนความต้องการที่ลึกซึ้ง และมอบความอบอุ่นใจ | ทำให้เขารู้สึกว่าคุณคือ "เซฟโซน" และเป็นคนเดียวที่เติมเต็มอุดมคติของเขาได้ |
 | **The Siren** | **Ni** (Introverted Intuition) | นิ่งสงบ เว้นช่องว่าง ปล่อยให้เดาใจ และมีมุมส่วนตัวที่เข้าถึงไม่ได้ | กระตุ้นความท้าทาย ทำให้เขาอยากเป็นฝ่ายวิ่งเข้าหาและค้นหาคำตอบในตัวคุณ |
 
-![PROMPT: A Grid Infographic in 16:8 ratio, minimal style on a white background. The infographic is divided into 2 equal sections. The left section is titled "The Ideal Lover (Fe)" with a minimalist icon of a glowing, warm heart. The right section is titled "The Siren (Ni)" with a minimalist icon of calm, mysterious ocean waves. The text inside the image must be in Thai, detailing the INFJ attraction styles: "ใช้ความเข้าใจเติมเต็มสิ่งที่ขาดหาย" vs "ใช้ความสงบนิ่งกระตุ้นจินตนาการ".](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_10.png)
+![PROMPT: A Grid Infographic in 16:8 ratio, minimal style on a white background. The infographic is divided into 2 equal sections. The left section is titled "The Ideal Lover (Fe)" with a minimalist icon of a glowing, warm heart. The right section is titled "The Siren (Ni)" with a minimalist icon of calm, mysterious ocean waves. The text inside the image must be in Thai, detailing the INFJ attraction styles: "ใช้ความเข้าใจเติมเต็มสิ่งที่ขาดหาย" vs "ใช้ความสงบนิ่งกระตุ้นจินตนาการ".](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_10.png)
 
 > 💡 **Esther's Secret:** 
 > ความรุนแรงของเสน่ห์แบบ INFJ ไม่ใช่การเลือกใช้อย่างใดอย่างหนึ่งนะคะ แต่คือการ **ผสานคาแรคเตอร์ทั้งสองนี้เข้าด้วยกัน** ต่างหากล่ะ! ลองจินตนาการดูสิคะ เวลาที่คุณอยู่กับเขา คุณมอบความอบอุ่นและรับฟังเขาอย่างลึกซึ้งแบบ *The Ideal Lover* แต่พอแยกย้ายกันไป คุณกลับกลับเข้าสู่โลกส่วนตัว ทิ้งระยะห่างให้เขาคิดถึงและคาดเดาไม่ได้แบบ *The Siren*... เจอความย้อนแย้งที่ทรงเสน่ห์แบบนี้เข้าไป ไม่หลงก็ให้มันรู้ไปค่ะ!
@@ -169,7 +169,7 @@
 
 สำหรับผู้หญิง INFJ แล้ว เอสเธอร์บอกเลยค่ะว่ากลยุทธ์นี้เราแทบจะไม่ต้องพยายามประดิษฐ์ขึ้นมาเลย เพราะพวกเราคือ "ความย้อนแย้งที่เดินได้" อย่างแท้จริง! ด้วยการทำงานที่ขัดแย้งกันของฟังก์ชันจิตวิทยาหลัก ทำให้เรามีออร่าที่ทั้งดึงดูดและสร้างระยะห่างได้ในเวลาเดียวกันโดยธรรมชาติ 
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman half-bathed in warm, inviting light and half-shrouded in cool, mysterious shadows, representing the alluring paradox of warmth and distance.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_11.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman half-bathed in warm, inviting light and half-shrouded in cool, mysterious shadows, representing the alluring paradox of warmth and distance.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_11.png)
 
 ความย้อนแย้งที่กลายเป็นเสน่ห์อันล้ำลึกของผู้หญิง INFJ มักจะทำงานผ่าน 3 รูปแบบหลักๆ ดังนี้ค่ะ:
 
@@ -183,7 +183,7 @@
 | **ความรู้สึกของเป้าหมาย** | รู้สึกสับสน อึดอัด และเหนื่อยล้ากับอารมณ์ที่แปรปรวนของคุณ | รู้สึกอบอุ่นเมื่ออยู่ใกล้ แต่ก็รู้สึกท้าทายที่อยากจะทะลวงกำแพงเข้าไปรู้จักคุณให้ลึกกว่าเดิม |
 | **ผลลัพธ์ของแรงดึงดูด** | อาจดึงดูดได้ในระยะสั้น แต่อีกฝ่ายจะถอยห่างเมื่อรู้สึกว่าถูกเล่นเกมใส่ | สร้างแรงดึงดูดที่ยั่งยืน เป้าหมายจะรู้สึกว่าคุณมีคุณค่า ลึกลับ และน่าค้นหาอยู่ตลอดเวลา |
 
-![PROMPT: Grid Infographic, 16:8 minimal style white background. Title: "ศิลปะแห่งการส่งสัญญาณขัดแย้งแบบ INFJ". The grid is divided into 2 sections in Thai. Left: "อบอุ่นและเข้าถึงง่าย (Warmth from Fe)" showing a soft glowing icon. Right: "ลึกลับและมีกำแพง (Mystery from Ni)" showing a beautiful locked gate. Emphasizing the natural balance that creates magnetic attraction.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_12.png)
+![PROMPT: Grid Infographic, 16:8 minimal style white background. Title: "ศิลปะแห่งการส่งสัญญาณขัดแย้งแบบ INFJ". The grid is divided into 2 sections in Thai. Left: "อบอุ่นและเข้าถึงง่าย (Warmth from Fe)" showing a soft glowing icon. Right: "ลึกลับและมีกำแพง (Mystery from Ni)" showing a beautiful locked gate. Emphasizing the natural balance that creates magnetic attraction.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_12.png)
 
 💡 **CB: Esther's Note (ข้อสังเกตจากเอสเธอร์)**
 การส่งสัญญาณที่ขัดแย้งไม่ได้แปลว่าเราต้องทำตัว "ผีเข้าผีออก" หรือจงใจทำร้ายความรู้สึกของใครเพื่อดึงดูดเขานะคะ เคล็ดลับของการใช้ *Mixed Signals* ให้ดูแพงและทรงพลัง คือการคงความอบอุ่นและมารยาทที่ดีเอาไว้เสมอ ปล่อยให้ความลึกลับตามธรรมชาติทำงานของมัน แล้วสงวน "พื้นที่ส่วนลึกที่สุดของหัวใจ" ไว้ให้เขาต้องเป็นฝ่ายพยายามปีนข้ามกำแพงเข้ามาค้นหาเองต่างหากค่ะ!
@@ -194,7 +194,7 @@
 
 สำหรับพวกเราชาว INFJ แม้ว่าฟังก์ชันด้านการรับรู้รายละเอียดทางกายภาพอย่าง **Se (Extraverted Sensing)** จะเป็นฟังก์ชันด้อย (Inferior Function) ของเรา  แต่เรามีอาวุธลับที่ทรงพลังกว่านั้นในการเก็บรายละเอียด นั่นคือเรดาร์จับอารมณ์จาก **Fe (Extraverted Feeling)** ที่ทำงานร่วมกับการวิเคราะห์ความหมายเชิงลึกของ **Ni (Introverted Intuition)** ค่ะ  เราอาจจะไม่ได้สังเกตว่าวันนี้เขาใส่เสื้อสีอะไร แต่เราจำได้แม่นยำว่าแววตาและน้ำเสียงของเขาตอนที่พูดถึงเรื่องบางเรื่องนั้นซ่อนความรู้สึกอะไรไว้!
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman presenting a very small, deeply meaningful and perfectly wrapped gift to someone, conveying a sense of profound thoughtfulness and quiet observation.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_13.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman presenting a very small, deeply meaningful and perfectly wrapped gift to someone, conveying a sense of profound thoughtfulness and quiet observation.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_13.png)
 
 การสร้างความน่าประทับใจผ่านรายละเอียดเพื่อสร้างเสน่ห์สไตล์ *Passive Attractive* ทำได้ดังนี้ค่ะ:
 
@@ -208,7 +208,7 @@
 | **ความรู้สึกของเป้าหมาย** | อาจรู้สึกอึดอัด กดดัน เป็นหนี้บุญคุณ หรือสงสัยในเจตนาที่ซ่อนอยู่  | รู้สึกว่าตัวเองเป็นคนสำคัญ รู้สึกอบอุ่นใจ และหลงใหลในความใส่ใจอย่างแท้จริงโดยไม่รู้ตัว  |
 | **ฟังก์ชันที่ทำงาน** | อาศัยพลังงานภายนอกและการแสดงออกที่เปิดเผยโจ่งแจ้ง | ใช้ **Fe** เพื่อจับอารมณ์ และ **Ni** เพื่อประมวลผลหาสิ่งที่ตอบโจทย์เขาที่สุด  |
 
-![PROMPT: Process Infographic, 16:8 minimal style white background. Title: "ศิลปะการใส่ใจรายละเอียดแบบ INFJ". Content includes 3 steps with simple icons in Thai: 1. สังเกตและรับฟังด้วยใจ (Observe with Fe) 2. ถอดรหัสความต้องการที่ซ่อนอยู่ (Analyze with Ni) 3. มอบความใส่ใจผ่านเรื่องเล็กๆ อย่างถูกจังหวะ (Execute Subtle Details)](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_14.png)
+![PROMPT: Process Infographic, 16:8 minimal style white background. Title: "ศิลปะการใส่ใจรายละเอียดแบบ INFJ". Content includes 3 steps with simple icons in Thai: 1. สังเกตและรับฟังด้วยใจ (Observe with Fe) 2. ถอดรหัสความต้องการที่ซ่อนอยู่ (Analyze with Ni) 3. มอบความใส่ใจผ่านเรื่องเล็กๆ อย่างถูกจังหวะ (Execute Subtle Details)](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_14.png)
 
 > 💡 **Esther's Secret:** 
 > จำไว้นะคะว่าความคลาสสิกของกลยุทธ์นี้คือ "ความแนบเนียน" อย่าพรีเซนต์ตัวเองว่า "เห็นไหม ฉันใส่ใจคุณแค่ไหน" แต่ให้ทำตัวเหมือนว่ามันเป็นเรื่องธรรมชาติที่คุณจำเรื่องของเขาได้ สิ่งนี้จะทำให้คุณดูเป็นผู้หญิงที่อ่อนโยน ลุ่มลึก และมีเสน่ห์มัดใจจนเขาถอนตัวไม่ขึ้นเลยล่ะค่ะ!
@@ -219,7 +219,7 @@
 
 กรีนได้นำเสนอแนวคิดที่เรียกว่า *Poeticize Your Presence* (การทำให้ตัวตนของคุณดูราวกับบทกวี) และการทิ้งสเปซเพื่อให้เขาเป็นฝ่ายไล่ตาม (*The Pursuer Is Pursued*) ซึ่งในทางจิตวิทยา เมื่อเราถอยห่างออกมา มนุษย์จะมีแนวโน้มที่จะนำภาพของคนรักไปจินตนาการต่อให้สมบูรณ์แบบยิ่งขึ้น (กระบวนการนี้เรียกว่า Crystallization) แต่รู้ไหมคะว่า ข่าวดีที่สุดสำหรับสาวๆ INFJ คืออะไร? ข่าวดีก็คือ การเว้นระยะห่างที่ว่านี้... มันคือ "ความต้องการพื้นฐาน" ของระบบปฏิบัติการในตัวเราอยู่แล้วค่ะ!
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman gently stepping back into a soft, glowing mist, leaving a subtle trail of light that irresistibly draws the viewer to follow her.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_15.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman gently stepping back into a soft, glowing mist, leaving a subtle trail of light that irresistibly draws the viewer to follow her.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_15.png)
 
 ในฐานะคนที่มีบุคลิกภาพแบบ Introvert เราทุกคนล้วนต้องการ "เวลาอยู่กับตัวเอง" (Alone time) เพื่อชาร์จพลังงานหลังจากที่ใช้ **Fe (Extraverted Feeling)** ในการรับอารมณ์คนอื่นมาทั้งวัน ปัญหาที่ผ่านมาคือเรามักจะ "รู้สึกผิด" เวลาที่ต้องขอตัวปลีกวิเวกออกมาจากคนที่เรารัก แต่ในศาสตร์ของ *Passive Attractive* เอสเธอร์อยากให้คุณเปลี่ยนความรู้สึกผิดนั้น มาเป็นกลยุทธ์ในการสร้างเสน่ห์อย่างชาญฉลาดแทนค่ะ:
 
@@ -233,7 +233,7 @@
 | **ปฏิกิริยาของเป้าหมาย** | โกรธ สับสน หรืออาจจะถอดใจเดินหนีไปเลย | รู้สึกคิดถึง โหยหาความสบายใจเวลาที่ได้อยู่กับคุณ และอยากเป็นฝ่ายเข้าหา |
 | **พลังงานของคุณ** | อาจจะรู้สึกกดดันตัวเองว่าแกล้งทำตัวห่างเหิน | ได้กลับมาชาร์จแบตเตอรี่ให้ตัวเองอย่างแท้จริง รู้สึกสงบและเป็นธรรมชาติ |
 
-![PROMPT: Timeline Infographic, 16:8 minimal style white background. Title: "วงจรการสร้างพื้นที่ว่างแบบ Passive Attractive". Content includes 3 phases in Thai with simple elegant icons: 1. สร้างความผูกพัน (Connect) - ใช้ความอบอุ่นดึงดูดใจ 2. ถอยเพื่อชาร์จพลัง (Withdraw) - กลับเข้าสู่โลกส่วนตัวอย่างมีศิลปะ 3. เกิดแรงดึงดูดกลับ (Magnetic Pull) - เป้าหมายเป็นฝ่ายทักหาและไล่ตาม](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_16.png)
+![PROMPT: Timeline Infographic, 16:8 minimal style white background. Title: "วงจรการสร้างพื้นที่ว่างแบบ Passive Attractive". Content includes 3 phases in Thai with simple elegant icons: 1. สร้างความผูกพัน (Connect) - ใช้ความอบอุ่นดึงดูดใจ 2. ถอยเพื่อชาร์จพลัง (Withdraw) - กลับเข้าสู่โลกส่วนตัวอย่างมีศิลปะ 3. เกิดแรงดึงดูดกลับ (Magnetic Pull) - เป้าหมายเป็นฝ่ายทักหาและไล่ตาม](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_16.png)
 
 💡 **CB: Esther's Reminder (คำเตือนจากเอสเธอร์)**
 การเว้นระยะห่างที่ทรงพลังที่สุด ต้องไม่ใช่การทำเพื่อ "ประชด" หรือ "เรียกร้องความสนใจ" นะคะ เพราะเป้าหมายจะสัมผัสได้ถึงพลังงานลบเหล่านั้น เคล็ดลับคือให้คุณกลับไปโฟกัสที่กิจกรรมที่คุณหลงใหล อ่านหนังสือที่ชอบ หรือพักผ่อนจริงๆ ปล่อยให้ความห่างเหินนั้นเกิดจากการที่คุณกำลังมีความสุขกับโลกส่วนตัวของคุณค่ะ
@@ -252,7 +252,7 @@
 
 สำหรับผู้หญิง INFJ อย่างพวกเรา การมีฟังก์ชัน *Extraverted Feeling (Fe)* หรือความรู้สึกที่เปิดรับต่อโลกภายนอกเป็นฟังก์ชันรอง ทำให้เรากลายเป็น "ฟองน้ำ" ชั้นดีที่คอยซึมซับอารมณ์ของคนรอบข้างเข้ามาโดยไม่รู้ตัว ยิ่งเวลาที่เรากำลังสนใจหรืออยากจะดึงดูดใครสักคน เรามักจะเผลอเทความสนใจและความรู้สึกทั้งหมดไปที่ความต้องการของเขา จนลืมขีดเส้นแบ่ง **ขอบเขตของตนเอง (Boundaries)** 
 
-![PROMPT: A 16:8 minimal illustration with a white background showing a serene woman standing inside a soft, glowing protective circle, gently interacting with the outside world while keeping her inner space calm and untouched.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_17.png)
+![PROMPT: A 16:8 minimal illustration with a white background showing a serene woman standing inside a soft, glowing protective circle, gently interacting with the outside world while keeping her inner space calm and untouched.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_17.png)
 
 เอสเธอร์อยากบอกว่า การรู้ทันอารมณ์ (Self-awareness) ไม่ใช่การปิดกั้นตัวเองหรือกลายเป็นคนเย็นชานะคะ แต่มันคือการ **รู้ว่าเมื่อไหร่ควรเปิดรับ และเมื่อไหร่ควรกลับมาชาร์จพลัง** ถ้าเรายอมสูญเสียพลังงานไปกับการพยายามทำความเข้าใจและเอาใจคนอื่นจนหมด เราจะไม่มีพลังงานเหลือมาสร้างออร่าแห่งความลุ่มลึกที่น่าหลงใหลในแบบฉบับของเราเลยค่ะ
 
@@ -274,7 +274,7 @@
 
 เพื่อให้เห็นภาพการเติบโตทางอารมณ์ที่ชัดเจนขึ้น เอสเธอร์ได้ทำสรุปขั้นตอนการสร้างความตระหนักรู้และขอบเขตทางอารมณ์ของ INFJ ไว้ให้คุณนำไปปรับใช้ค่ะ
 
-![PROMPT: Hierarchy Infographic, 16:8 minimal style, white background. Title: "ลำดับชั้นการตระหนักรู้เพื่อปกป้องพลังงานของ INFJ". Bottom level: สังเกตและรู้ทันเมื่อ Fe เริ่มดูดซับอารมณ์คนอื่น. Middle level: คัดกรองและสร้าง Boundaries เพื่อป้องกันพลังงานรั่วไหล. Top level: แผ่ออร่าความสงบนิ่งและกลายเป็น Passive Attractive ที่สมบูรณ์แบบ](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_18.png)
+![PROMPT: Hierarchy Infographic, 16:8 minimal style, white background. Title: "ลำดับชั้นการตระหนักรู้เพื่อปกป้องพลังงานของ INFJ". Bottom level: สังเกตและรู้ทันเมื่อ Fe เริ่มดูดซับอารมณ์คนอื่น. Middle level: คัดกรองและสร้าง Boundaries เพื่อป้องกันพลังงานรั่วไหล. Top level: แผ่ออร่าความสงบนิ่งและกลายเป็น Passive Attractive ที่สมบูรณ์แบบ](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_18.png)
 
 เมื่อคุณสามารถสร้างกำแพงแก้วใสๆ ที่ปกป้องพลังงานของคุณไว้ได้แล้ว ความมั่นคงและความสงบที่คุณแผ่ออกมาโดยไม่ต้องพูดอะไรนี่แหละค่ะ คือแรงดึงดูดที่แสนจะแยบยลและเซ็กซี่ที่สุด
 
@@ -286,7 +286,7 @@
 
 สำหรับผู้หญิง INFJ อย่างเรา การสร้าง *Seductive Environment* ไม่ใช่การพาเขาไปปาร์ตี้สุดเหวี่ยง แสงสีจัดจ้าน หรือสถานบันเทิงที่คนพลุกพล่านนะคะ แต่ "สภาพแวดล้อม" ของเราคือ **"บรรยากาศทางจิตวิทยา"** ที่เราแผ่ออกมาผ่านการทำงานร่วมกันของฟังก์ชัน **Fe (Extraverted Feeling)** และ **Ni (Introverted Intuition)** ต่างหากค่ะ
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman sitting in a cozy, dimly lit aesthetic space, radiating a soft, warm, and magical aura that irresistibly invites someone into her safe and deeply comforting psychological realm.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_19.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of an elegant woman sitting in a cozy, dimly lit aesthetic space, radiating a soft, warm, and magical aura that irresistibly invites someone into her safe and deeply comforting psychological realm.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_19.png)
 
 การสร้างบรรยากาศแห่งความลุ่มลึกและปลอดภัยในแบบฉบับ *Passive Attractive* ทำได้ดังนี้ค่ะ:
 
@@ -300,7 +300,7 @@
 | **การสนทนา** | พูดคุยเรื่องทั่วไป ดินฟ้าอากาศ หน้าที่การงาน | พูดคุยเรื่องความหมายของชีวิต ความฝัน และตัวตนที่แท้จริง |
 | **การรับรู้เวลา** | ดำเนินไปตามปกติ อาจมีความกังวลถึงตารางเวลาถัดไป | ลืมเวลา รู้สึกเหมือนเวลาเดินช้าลงหรือหยุดนิ่ง  |
 
-![PROMPT: Grid Infographic, 16:8 minimal style white background. Title: "การสร้าง Seductive Environment แบบฉบับ INFJ". The grid is divided into 2 sections in Thai. Left: "พื้นที่ปลอดภัย (The Safe Haven)" showing a warm, glowing home icon representing Fe. Right: "พื้นที่แห่งมนตร์ขลัง (Mystical Space)" showing a subtle starry night icon representing Ni. Emphasizing the combination that makes the target want to stay forever.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_20.png)
+![PROMPT: Grid Infographic, 16:8 minimal style white background. Title: "การสร้าง Seductive Environment แบบฉบับ INFJ". The grid is divided into 2 sections in Thai. Left: "พื้นที่ปลอดภัย (The Safe Haven)" showing a warm, glowing home icon representing Fe. Right: "พื้นที่แห่งมนตร์ขลัง (Mystical Space)" showing a subtle starry night icon representing Ni. Emphasizing the combination that makes the target want to stay forever.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_20.png)
 
 💡 **CB: Esther's Tip**
 การสร้างบรรยากาศแห่งความลุ่มลึกไม่จำเป็นต้องเล่นใหญ่เสมอไปนะคะ เอสเธอร์อยากให้คุณลองใช้ข้อได้เปรียบเล็กๆ น้อยๆ อย่างเช่น การเลือกสถานที่เดตที่มีความเงียบสงบ มีศิลปะ หรือมีเรื่องราวทางประวัติศาสตร์ สถานที่เหล่านี้จะช่วยดึงพลังงาน **Ni** ของคุณออกมาได้อย่างเป็นธรรมชาติ  และทำให้เขารู้สึกว่าการได้อยู่กับคุณคือการหลีกหนีจากโลกที่วุ่นวาย มาสู่โลกที่งดงามและลุ่มลึกค่ะ
@@ -311,7 +311,7 @@
 
 ด้วยระบบปฏิบัติการหลักอย่าง **Introverted Intuition (Ni)** เรามีความลึกซึ้งและออร่าแห่งความลึกลับที่ชวนให้คนอยากค้นหาเป็นทุนเดิม ผสมผสานกับ **Extraverted Feeling (Fe)** ที่ทำให้เรามีความเห็นอกเห็นใจและใส่ใจในคุณค่าที่ลึกซึ้งของผู้อื่น  อาวุธสองชิ้นนี้เมื่อนำมาใช้ร่วมกันในสไตล์ *Passive Attractive* จะกลายเป็นพลังเงียบที่ดึงดูดใจได้อย่างมหาศาล
 
-![PROMPT: 16:8 minimal white background, a conceptual illustration of a confident, elegant woman walking away softly into a bright, warm horizon, leaving a trail of beautiful, subtle light that symbolizes her quiet, magnetic power.](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_21.png)
+![PROMPT: 16:8 minimal white background, a conceptual illustration of a confident, elegant woman walking away softly into a bright, warm horizon, leaving a trail of beautiful, subtle light that symbolizes her quiet, magnetic power.](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_21.png)
 
 เพื่อก้าวเดินต่อไปในเวอร์ชันที่ทรงเสน่ห์ที่สุด เอสเธอร์อยากให้คุณทบทวนแก่นสำคัญ 3 ประการในการเปลี่ยนความเงียบให้เป็นพลังค่ะ:
 
@@ -327,7 +327,7 @@
 | กังวลว่าถ้าอยู่เงียบๆ เขาจะไม่สนใจ | ใช้ความสงบนิ่งสร้างพื้นที่ว่าง ให้เขาเป็นฝ่ายคิดถึงและตามหา |
 | ทุ่มเทเอาใจจนลืมความต้องการของตัวเอง | แผ่ความอบอุ่นแบบพอดี โดยมีกำแพงปกป้องพลังงานของตัวเอง |
 
-![PROMPT: Flowchart Infographic, 16:8 minimal style white background. Title: "สรุปเส้นทางแห่ง Passive Attractive". Content includes sequential flow in Thai: 1. รู้จักตัวเอง (Ni + Fe) -> 2. กางขอบเขตปกป้องพลังงาน -> 3. แผ่ออร่าความสงบนิ่ง -> 4. ดึงดูดคนที่ใช่ให้เดินเข้ามาหาเอง](https://raw.githubusercontent.com/boyn149/project_20260524_102942/main/pic_book1/infographic_book1_22.png)
+![PROMPT: Flowchart Infographic, 16:8 minimal style white background. Title: "สรุปเส้นทางแห่ง Passive Attractive". Content includes sequential flow in Thai: 1. รู้จักตัวเอง (Ni + Fe) -> 2. กางขอบเขตปกป้องพลังงาน -> 3. แผ่ออร่าความสงบนิ่ง -> 4. ดึงดูดคนที่ใช่ให้เดินเข้ามาหาเอง](https://raw.githubusercontent.com/boyn149/project_20260524_113124/main/book_book1/pic_book1/infographic_book1_22.png)
 
 💡 **Esther's Final Words:**
 จงภูมิใจในโลกส่วนตัวอันซับซ้อนของคุณเถอะค่ะ ความย้อนแย้งที่แสนจะเข้าถึงง่ายแต่เดาใจยากของคุณคือสิ่งที่ทำให้ใครหลายคนไม่อาจละสายตาไปได้ อนุญาตให้ตัวเองได้เป็นตัวของตัวเองอย่างเต็มที่ และปล่อยให้ความสงบนิ่งของคุณทำหน้าที่คัดสรรความรักที่ถูกต้องให้เดินทางมาหาคุณเองนะคะ
